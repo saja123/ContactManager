@@ -11,7 +11,6 @@ namespace ContactManager
             ContactsManager();
         }
 
-       
         public static void ContactsManager()
         {
 
